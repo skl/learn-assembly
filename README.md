@@ -9,7 +9,7 @@ vagrant ssh i686
 
 # 64-bit VM
 vagrant up x86_64
-vagrant up x86_64
+vagrant ssh x86_64
 ```
 
 ## Sources
